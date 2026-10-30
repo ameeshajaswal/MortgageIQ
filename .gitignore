@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Runtime files created when you use the app
+introspection_logs.jsonl
+uploaded_docs/
