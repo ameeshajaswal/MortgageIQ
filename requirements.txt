@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+fastapi          # optional now, only if you still want the API
+uvicorn          # optional
+python-dotenv
+streamlit
